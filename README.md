@@ -5,7 +5,7 @@
 
 URL="${1:-help}"
 MASTER_PWD="${2:-admin}"
-NAME="${3:-monbeef_analysis}"
+NAME="${3:-db_name}"
 FORMAT="${4:-zip}"
 LOCATION="${5:-./}"
 
